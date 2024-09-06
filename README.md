@@ -1,4 +1,4 @@
-##  Aplicação de Pesquisa de Atletas: Um Guia Rápido e Descontraído
+##  Desvendando Atletas - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
